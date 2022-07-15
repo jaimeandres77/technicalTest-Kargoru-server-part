@@ -6,7 +6,7 @@ Create a very short CRUD for creating a quote for a transport service from point
 Built with:
 * DB: MongoDB
 * BackEnd: Node.js
-* FrontEnd: React.
+* FrontEnd: React(https://github.com/jaimeandres77/technicalTest-Kargoru-client-part)
 
 ## Project installation
 First we clone the project with the url provided by Github ``` git clone <github url> ```
